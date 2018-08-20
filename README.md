@@ -1,2 +1,3 @@
 # -hello-world-
-mi primer repositorio 
+mi primer repositoriointr
+introduccion a la ingenieria de software 
